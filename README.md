@@ -4,7 +4,7 @@
 
 ## 📥 Download
 
-### [Download MetrixRTAProbe_0.1.0_x64.exe](./MetrixRTAProbe_0.1.0_x64.exe)
+### [⬇️ Download Metrix RTA Probe 0.1.0 x64](https://github.com/MetrixRTA/Metrix-RTA-Probe/releases/download/v0.1.0/MetrixRTAProbe_0.1.0_x64.exe)
 
 > **Windows x64 only.** No installation is required.
 
