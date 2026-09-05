@@ -2,11 +2,15 @@
 
 **Metrix RTA Probe** is a lightweight Windows utility for inspecting the real capabilities of **WASAPI** and **ASIO** audio devices.
 
+> **Current pre-release:** 0.1.3
+
 ## 📥 Download
 
 ### [⬇️ Download Metrix RTA Probe 0.1.3 x64](https://github.com/MetrixRTA/Metrix-RTA-Probe/releases/download/0.1.3/MetrixRTAProbe_0.1.3_x64.exe)
 
 > **Windows x64 only.** No installation is required.
+
+A SHA-256 checksum file is provided with the release for download verification.
 
 ## ✨ Features
 
@@ -66,7 +70,7 @@ The application verifies:
 
 If you find this utility useful, you can support the project on **ko-fi**:
 
-### [Support Metrix RTA on ko-fi](https://ko-fi.com/metrixrta)
+### [Support MetrixRTA on Ko-fi](https://ko-fi.com/metrixrta)
 
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/862dc674-2e05-4170-bbf9-49cfc93d828d" />
+<a href="https://ko-fi.com/metrixrta"><img src="assets/kofi-qr.png" alt="Ko-fi QR code" width="110"></a>
 
