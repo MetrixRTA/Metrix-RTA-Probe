@@ -14,7 +14,6 @@
 - Detects registered **64-bit ASIO drivers**
 - Tests WASAPI devices in **Exclusive Mode**
 - Opens and starts real native audio streams
-- Checks sample rates from **8 kHz to 768 kHz**
 - Tests **8-, 16-, 24- and 32-bit integer formats**
 - Tests **32-bit floating-point formats**
 - Checks **mono and multichannel configurations** separately
