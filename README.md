@@ -68,3 +68,6 @@ The application verifies:
 If you find this utility useful, you can support the project on **ko-fi**:
 
 ### [Support Metrix RTA on ko-fi](https://ko-fi.com/metrixrta)
+
+<img width="820" height="820" alt="image" src="https://github.com/user-attachments/assets/862dc674-2e05-4170-bbf9-49cfc93d828d" />
+
